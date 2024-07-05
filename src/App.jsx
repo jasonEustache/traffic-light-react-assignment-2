@@ -8,10 +8,10 @@ function App() {
         <h1>Traffic light App</h1>
         <div className="container">
           <div className="left">
-            <FunctionalTrafficLight />
+            <FunctionalTrafficLight/>
           </div>
           <div className="right">
-            <ClassTrafficLight />
+            <ClassTrafficLight/>
           </div>
         </div>
       </main>
